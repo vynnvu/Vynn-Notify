@@ -1,0 +1,10 @@
+{
+  "id": "chibi_boy",
+  "name": "Vynn",
+  "renderer": "qpainter",
+  "module": "characters.chibi_boy.renderer",
+  "class": "ChibiBoyRenderer",
+  "width": 160,
+  "height": 180,
+  "animation": {"fps": 30, "walk_speed": 1.7, "jump_height": 75}
+}

@@ -1,0 +1,1 @@
+"""Chibi Boy animated character."""
